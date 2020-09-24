@@ -13,6 +13,15 @@ This project wiil allow users to:
 - Display stock list in table.
 - Apply search, sort and pagination.
 
+## Task Description
+
+- [x] Login with user email and password.
+- [x] Validate user from users.json (Retrieve data by axios). If user is matched then user can view listing of stock.
+- [x] Call Stock list JSON file by using axios. (StockList.json)
+- [x] Display stock list in appropriate table.
+- [x] Show List group by “Category”.
+- [x] Apply search, sort and pagination.
+
 ## Quick Start
 
 ```javascript
