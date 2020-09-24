@@ -1,3 +1,28 @@
+# Stock Listing
+
+This project uses the following technologies:
+
+- [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for the frontend
+- [axios](https://github.com/axios/axios) for network operations
+- [Bootstrap](https://getbootstrap.com/) for designing purpose
+- [SweetAlert](https://sweetalert.js.org/guides/) for Showing an alert
+
+This project wiil allow users to:
+
+- Login with email and password.
+- Display stock list in table.
+- Apply search, sort and pagination.
+
+## Quick Start
+
+```javascript
+// Install dependencies for server & client
+npm install && npm start
+
+
+// Project runs on http://localhost:3000
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
